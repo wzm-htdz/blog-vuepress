@@ -1,3 +1,9 @@
+# 隐私信息
+secret.js
+
+# 部署文件
+deploy.sh
+
 # Logs
 logs
 *.log

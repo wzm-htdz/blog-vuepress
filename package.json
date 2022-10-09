@@ -1,7 +1,8 @@
 {
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
-    "build": "vuepress build docs"
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "dependencies": {
     "vuepress-theme-reco": "^1.6.14"
