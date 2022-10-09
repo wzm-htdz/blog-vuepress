@@ -1,0 +1,13 @@
+/* $accentColor = #3eaf7c // 主题色 */
+.page .page-title{
+	max-width:840px !important;
+}
+.bilibili-player-video-recommend {
+	display:none !important;
+}
+.bilibili-player-video-recommend-container {
+	display:none !important;
+}
+.dropdown-item h4{
+  font-weight: 900 !important;
+}

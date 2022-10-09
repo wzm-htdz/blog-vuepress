@@ -1,0 +1,4 @@
+node_modules
+
+# 私密信息
+secret.js
