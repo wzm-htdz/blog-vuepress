@@ -6,7 +6,6 @@ module.exports = {
   title: "无限的旅途",
   description: '记录、成长、无限',
   dest: './dist',
-  port: '7777',
   head: headConf,
   theme: 'reco',
   themeConfig: themeConfig,
